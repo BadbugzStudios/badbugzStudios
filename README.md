@@ -11,6 +11,7 @@ My main tech is C++ and my favorite tools are Unreal Engine, Blender, Marmoset, 
 ⚡ Fun facts: 
 -I have a dog
 -I live off coffee
+-Learning Korean
 -Hobbies: Gym, sailling and building things
 
 - 📫 How to reach me: Barrosoneto@live.com.pt
