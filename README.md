@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**BadbugzStudios/badbugzStudios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm João, a eletronics engineer based in Portugal.
 
-Here are some ideas to get you started:
+I design and build whatever game i can imagine.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If I have a ideia I try to build it while learning from it!
+
+My main tech is C++ and my favorite tools are Unreal Engine, Blender, Marmoset, substance painter, photoshop and MVS.
+
+⚡ Fun facts: 
+-I have a dog
+-I live off coffee
+-Hobbies: Gym, sailling and building things
+
+- 📫 How to reach me: Barrosoneto@live.com.pt
+
+
